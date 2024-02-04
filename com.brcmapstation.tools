@@ -1,11 +1,24 @@
 {
   "name": "com.brcmapstation.tools",
   "versions": {
+    "0.9.1": {
+      "version": "0.9.1",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.9.1"
+      },
+      "displayName": "BRC MapStation: Editor Tools",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.1.tgz",
+        "shasum": "50692145603B4682A75AF8DC80FF8FCABFEF97C3"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk"
+    },
     "0.9.0": {
       "version": "0.9.0",
       "name": "com.brcmapstation.tools",
       "dependencies": {
-        "com.brcmapstation.common": "0.9.0"
+        "com.brcmapstation.common": "0.9.1"
       },
       "displayName": "BRC MapStation: Editor Tools",
       "dist": {
@@ -16,6 +29,6 @@
     }
   },
   "dist-tags": {
-    "latest": "0.9.0"
+    "latest": "0.9.1"
   }
 }
