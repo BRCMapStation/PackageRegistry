@@ -1,0 +1,17 @@
+{
+  "total": 2,
+  "objects": [
+    {
+      "package": {
+        "version": "0.9.0",
+        "name": "com.brcmapstation.common"
+      }
+    },
+    {
+      "package": {
+        "version": "0.9.0",
+        "name": "com.brcmapstation.tools"
+      }
+    }
+  ]
+}
