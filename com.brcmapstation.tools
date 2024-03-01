@@ -1,125 +1,138 @@
 {
+  "dist-tags": {
+    "latest": "0.12.2"
+  },
   "versions": {
     "0.9.3": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
-      },
-      "name": "com.brcmapstation.tools",
       "version": "0.9.3",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
       "description": "Mapping tools for Bomb Rush Cyberfunk",
       "dist": {
         "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.3.tgz",
         "shasum": "37A74A3967367DF0EE545C7D17DE40B8219EB3B3"
-      }
-    },
-    "0.9.2": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
       },
-      "name": "com.brcmapstation.tools",
-      "version": "0.9.2",
-      "description": "Mapping tools for Bomb Rush Cyberfunk",
-      "dist": {
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.2.tgz",
-        "shasum": "F1AFEEDB4078A7498A96549C9CBE56D0A79BD30C"
-      }
-    },
-    "0.12.1": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
-      },
-      "name": "com.brcmapstation.tools",
-      "version": "0.12.1",
-      "description": "Mapping tools for Bomb Rush Cyberfunk",
-      "dist": {
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.12.1.tgz",
-        "shasum": "F7D364F846CEA6041D3C1417ECB5D72E4971B4B3"
-      }
-    },
-    "0.11.0": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
-      },
-      "name": "com.brcmapstation.tools",
-      "version": "0.11.0",
-      "description": "Mapping tools for Bomb Rush Cyberfunk",
-      "dist": {
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.11.0.tgz",
-        "shasum": "7EB60B06D8BBFBA2D8640F72D2F73D604F97E4B2"
-      }
+      "displayName": "BRC MapStation: Editor Tools"
     },
     "0.9.1": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
-      },
-      "name": "com.brcmapstation.tools",
       "version": "0.9.1",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
       "description": "Mapping tools for Bomb Rush Cyberfunk",
       "dist": {
         "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.1.tgz",
         "shasum": "50692145603B4682A75AF8DC80FF8FCABFEF97C3"
-      }
-    },
-    "0.10.0": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
       },
+      "displayName": "BRC MapStation: Editor Tools"
+    },
+    "0.12.1": {
+      "version": "0.12.1",
       "name": "com.brcmapstation.tools",
-      "version": "0.10.0",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
       "description": "Mapping tools for Bomb Rush Cyberfunk",
       "dist": {
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.10.0.tgz",
-        "shasum": "80DDD635158DADB7BAB0DE01D088C3D602A8590A"
-      }
-    },
-    "0.9.4": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.12.1.tgz",
+        "shasum": "F7D364F846CEA6041D3C1417ECB5D72E4971B4B3"
       },
-      "name": "com.brcmapstation.tools",
-      "version": "0.9.4",
-      "description": "Mapping tools for Bomb Rush Cyberfunk",
-      "dist": {
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.4.tgz",
-        "shasum": "9F5E7B8749247B026AD0D147A873C7D97142FBEA"
-      }
+      "displayName": "BRC MapStation: Editor Tools"
     },
     "0.12.0": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
-      },
-      "name": "com.brcmapstation.tools",
       "version": "0.12.0",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
       "description": "Mapping tools for Bomb Rush Cyberfunk",
       "dist": {
         "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.12.0.tgz",
         "shasum": "9D72D8061A66082816F013D7B7DAE1781FDA74F6"
-      }
+      },
+      "displayName": "BRC MapStation: Editor Tools"
+    },
+    "0.11.0": {
+      "version": "0.11.0",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.11.0.tgz",
+        "shasum": "7EB60B06D8BBFBA2D8640F72D2F73D604F97E4B2"
+      },
+      "displayName": "BRC MapStation: Editor Tools"
+    },
+    "0.10.0": {
+      "version": "0.10.0",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.10.0.tgz",
+        "shasum": "80DDD635158DADB7BAB0DE01D088C3D602A8590A"
+      },
+      "displayName": "BRC MapStation: Editor Tools"
+    },
+    "0.9.4": {
+      "version": "0.9.4",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.4.tgz",
+        "shasum": "9F5E7B8749247B026AD0D147A873C7D97142FBEA"
+      },
+      "displayName": "BRC MapStation: Editor Tools"
+    },
+    "0.12.2": {
+      "version": "0.12.2",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.12.2.tgz",
+        "shasum": "F09E7EFD639F61BF5275FB3CDF23A5FF6D4B88C0"
+      },
+      "displayName": "BRC MapStation: Editor Tools"
     },
     "0.9.0": {
-      "displayName": "BRC MapStation: Editor Tools",
-      "dependencies": {
-        "com.brcmapstation.common": "0.12.1"
-      },
-      "name": "com.brcmapstation.tools",
       "version": "0.9.0",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
       "description": "Mapping tools for Bomb Rush Cyberfunk",
       "dist": {
         "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.0.tgz",
         "shasum": "A528AF4FE27F24E8FBADFEA655DA06EE205D3AD4"
-      }
+      },
+      "displayName": "BRC MapStation: Editor Tools"
+    },
+    "0.9.2": {
+      "version": "0.9.2",
+      "name": "com.brcmapstation.tools",
+      "dependencies": {
+        "com.brcmapstation.common": "0.12.2"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.tools/-/com.brcmapstation.tools-0.9.2.tgz",
+        "shasum": "F1AFEEDB4078A7498A96549C9CBE56D0A79BD30C"
+      },
+      "displayName": "BRC MapStation: Editor Tools"
     }
   },
-  "name": "com.brcmapstation.tools",
-  "dist-tags": {
-    "latest": "0.12.1"
-  }
+  "name": "com.brcmapstation.tools"
 }
