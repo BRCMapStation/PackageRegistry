@@ -1,138 +1,148 @@
 {
-  "name": "com.brcmapstation.common",
   "dist-tags": {
-    "latest": "0.13.2"
+    "latest": "0.14.0"
   },
+  "name": "com.brcmapstation.common",
   "versions": {
+    "0.9.2": {
+      "version": "0.9.2",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.2.tgz",
+        "shasum": "AD59DDE11C06A6BB0898A0FFCE9471286DB9E2EF"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
     "0.12.2": {
-      "dist": {
-        "shasum": "EDECB1E8716044D175AC567E587E13D7C3C035AB",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.12.2.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
       "version": "0.12.2",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.13.2": {
-      "dist": {
-        "shasum": "4ABFC8D7EBDA4FC43B9D1A15D3778F4A9220E953",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.13.2.tgz"
-      },
       "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.13.2",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.12.1": {
       "dist": {
-        "shasum": "8A160AF9C4948DDF2BC29DBDD9667FED51ADEED2",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.12.1.tgz"
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.12.2.tgz",
+        "shasum": "EDECB1E8716044D175AC567E587E13D7C3C035AB"
       },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.12.1",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.13.0": {
-      "dist": {
-        "shasum": "4410C51FD2EF2E9B33FF0AAEC0B50446668B9DC5",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.13.0.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.13.0",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
     },
     "0.13.1": {
-      "dist": {
-        "shasum": "34449D3BF4048581105538CA70184DE41AD5446C",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.13.1.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
       "version": "0.13.1",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.9.1": {
-      "dist": {
-        "shasum": "00B0984654F57EC60B26A63D08959A7933ED6CCE",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.1.tgz"
-      },
       "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.9.1",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.9.2": {
       "dist": {
-        "shasum": "AD59DDE11C06A6BB0898A0FFCE9471286DB9E2EF",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.2.tgz"
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.13.1.tgz",
+        "shasum": "34449D3BF4048581105538CA70184DE41AD5446C"
       },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.13.2": {
+      "version": "0.13.2",
       "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.9.2",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.13.2.tgz",
+        "shasum": "4ABFC8D7EBDA4FC43B9D1A15D3778F4A9220E953"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.14.0": {
+      "version": "0.14.0",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.14.0.tgz",
+        "shasum": "88251D43CDAE537A5D4BC5C18147C3F94E8EBF91"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
     },
     "0.9.0": {
-      "dist": {
-        "shasum": "A47DE06C050FF39AEEAF26C6E2CA333CD77F5B8C",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.0.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
       "version": "0.9.0",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.9.3": {
-      "dist": {
-        "shasum": "BF5585FD80241A1C6E94B0DEA39289FA31ACF3D9",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.3.tgz"
-      },
       "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.9.3",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.0.tgz",
+        "shasum": "A47DE06C050FF39AEEAF26C6E2CA333CD77F5B8C"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.9.1": {
+      "version": "0.9.1",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.1.tgz",
+        "shasum": "00B0984654F57EC60B26A63D08959A7933ED6CCE"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
     },
     "0.12.0": {
-      "dist": {
-        "shasum": "C4BEAEECD03937A9E80528A971AECFFEC8721F28",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.12.0.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
       "version": "0.12.0",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
-    },
-    "0.9.4": {
-      "dist": {
-        "shasum": "E07F34A2B8BB8AE5CEEDE9359F2BD4F575B1B4FB",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.4.tgz"
-      },
       "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
-      "version": "0.9.4",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.12.0.tgz",
+        "shasum": "C4BEAEECD03937A9E80528A971AECFFEC8721F28"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.13.0": {
+      "version": "0.13.0",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.13.0.tgz",
+        "shasum": "4410C51FD2EF2E9B33FF0AAEC0B50446668B9DC5"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
     },
     "0.10.0": {
-      "dist": {
-        "shasum": "32BC07F7033477E8C079175CFDC3A4FBF90A337D",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.10.0.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
       "version": "0.10.0",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.10.0.tgz",
+        "shasum": "32BC07F7033477E8C079175CFDC3A4FBF90A337D"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.9.4": {
+      "version": "0.9.4",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.4.tgz",
+        "shasum": "E07F34A2B8BB8AE5CEEDE9359F2BD4F575B1B4FB"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.9.3": {
+      "version": "0.9.3",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.9.3.tgz",
+        "shasum": "BF5585FD80241A1C6E94B0DEA39289FA31ACF3D9"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
+    },
+    "0.12.1": {
+      "version": "0.12.1",
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.12.1.tgz",
+        "shasum": "8A160AF9C4948DDF2BC29DBDD9667FED51ADEED2"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
     },
     "0.11.0": {
-      "dist": {
-        "shasum": "BDD435DDD5EEB3D38AD3EF849B6441C3405D5417",
-        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.11.0.tgz"
-      },
-      "name": "com.brcmapstation.common",
-      "displayName": "BRC MapStation: Common Code",
       "version": "0.11.0",
-      "description": "Mapping tools for Bomb Rush Cyberfunk"
+      "name": "com.brcmapstation.common",
+      "dist": {
+        "tarball": "https://brcmapstation.github.io/PackageRegistry/tarballs/com.brcmapstation.common/-/com.brcmapstation.common-0.11.0.tgz",
+        "shasum": "BDD435DDD5EEB3D38AD3EF849B6441C3405D5417"
+      },
+      "description": "Mapping tools for Bomb Rush Cyberfunk",
+      "displayName": "BRC MapStation: Common Code"
     }
   }
 }
