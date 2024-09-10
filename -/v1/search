@@ -1,5 +1,5 @@
 {
-  "total": 38,
+  "total": 40,
   "objects": [
     {
       "package": {
@@ -82,6 +82,12 @@
     {
       "package": {
         "version": "0.16.1",
+        "name": "com.brcmapstation.common"
+      }
+    },
+    {
+      "package": {
+        "version": "0.17.0",
         "name": "com.brcmapstation.common"
       }
     },
@@ -196,6 +202,12 @@
     {
       "package": {
         "version": "0.16.1",
+        "name": "com.brcmapstation.tools"
+      }
+    },
+    {
+      "package": {
+        "version": "0.17.0",
         "name": "com.brcmapstation.tools"
       }
     },
