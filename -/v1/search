@@ -105,6 +105,12 @@
     {
       "package": {
         "name": "com.brcmapstation.common",
+        "version": "0.18.1"
+      }
+    },
+    {
+      "package": {
+        "name": "com.brcmapstation.common",
         "version": "0.9.0"
       }
     },
@@ -237,6 +243,12 @@
     {
       "package": {
         "name": "com.brcmapstation.tools",
+        "version": "0.18.1"
+      }
+    },
+    {
+      "package": {
+        "name": "com.brcmapstation.tools",
         "version": "0.9.0"
       }
     },
@@ -265,5 +277,5 @@
       }
     }
   ],
-  "total": 44
+  "total": 46
 }
